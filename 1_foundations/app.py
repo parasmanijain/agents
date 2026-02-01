@@ -76,8 +76,9 @@ tools = [{"type": "function", "function": record_user_details_json},
 class Me:
 
     def __init__(self):
-        self.openai = OpenAI()
-        self.name = "Ed Donner"
+        groq_api_key = os.getenv('GROQ_API_KEY')
+        self.groq = OpenAI(api_key=groq_api_key, base_url="https://api.groq.com/openai/v1")
+        self.name = "Paras Jain"
         reader = PdfReader("me/linkedin.pdf")
         self.linkedin = ""
         for page in reader.pages:
@@ -113,10 +114,12 @@ If the user is engaging in discussion, try to steer them towards getting in touc
         return system_prompt
     
     def chat(self, message, history):
+        history = [{"role": h["role"], "content": h["content"]} for h in history]
         messages = [{"role": "system", "content": self.system_prompt()}] + history + [{"role": "user", "content": message}]
         done = False
+        model_name = "openai/gpt-oss-120b"
         while not done:
-            response = self.openai.chat.completions.create(model="gpt-4o-mini", messages=messages, tools=tools)
+            response = self.groq.chat.completions.create(model=model_name, messages=messages, tools=tools)
             if response.choices[0].finish_reason=="tool_calls":
                 message = response.choices[0].message
                 tool_calls = message.tool_calls
