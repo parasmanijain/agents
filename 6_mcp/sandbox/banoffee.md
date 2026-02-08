@@ -1,10 +1,8 @@
 # Banoffee Pie Recipe
 
+*Based on the highly rated [BBC Good Food recipe](https://www.bbcgoodfood.com/recipes/banoffee-pie)*
+
 ## Ingredients
-- 4 bananas, sliced
-- 394g caramel or dulce de leche
-- 300ml double cream
-- Dark chocolate (optional)
 
 ### For the pastry
 - 100g butter, chilled (plus extra for greasing)
@@ -12,16 +10,22 @@
 - 1 medium egg, separated
 - 1 tbsp golden caster sugar
 
-## Method
-1. Make the pastry case: Put butter and flour in a food processor and pulse until it resembles fresh breadcrumbs. Add egg yolk and sugar, pulse again, then add very cold water a tbsp at a time until dough comes together.
-2. Knead dough gently by hand until smooth ball forms. Wrap in cling film and chill for 30 minutes.
-3. Heat oven to 190C/170C fan/gas 4. Grease a 23cm loose bottomed fluted tart tin. Roll out pastry and line the tin, leaving about 0.5cm of pastry over the edge and snip to length.
-4. Line base with baking parchment and weigh down with baking beans/uncooked rice. Bake for 15 minutes. Remove parchment and beans, brush pastry with beaten egg white and bake another 15-20 minutes until golden and cooked. Cool completely.
-5. Spread half the caramel on the pastry case, layer bananas on top, then cover with remaining caramel. Chill in fridge.
-6. Whip the cream until thick and spoon over the tart. Grate dark chocolate over to garnish if using.
+### For the filling
+- 4 bananas, sliced
+- 394g caramel or dulce de leche
+- 300ml double cream
+- 1-2 pieces dark chocolate (to grate, optional)
 
-## Notes
-- Serves 8-10.
-- Prep time: 30 minutes.
-- Cook time: 30-35 minutes.
-- An easy family favorite. Recommended to serve with a generous dollop of cream.
+## Method
+1. **Pastry:** Pulse butter and flour in a food processor to breadcrumbs. Add egg yolk and sugar, pulse, then slowly add ice-cold water until dough comes together. Knead, wrap, and chill for 30 min.
+2. **Roll & Line:** Roll out chilled pastry, line a greased 23cm tart tin, leave 0.5cm above edge. Chill for 10 min.
+3. **Blind Bake:** Heat oven to 190C/170C fan/gas 4. Line pastry with parchment and beans/rice. Bake 15 min, remove paper/beans, brush with egg white, bake 15-20 min more until golden and crisp. Cool completely.
+4. **Fill:** Spread half the caramel over base, layer with bananas, cover with remaining caramel. Chill.
+5. **Top:** Whip cream and spoon over pie. Garnish with grated dark chocolate.
+
+## Tips
+- Biscuit base can substitute pastry for convenience.
+- Pie can be kept overnight in fridge (preferably whip/pipe the cream on the day of serving).
+
+---
+*For full method and more tips see the [BBC Good Food banoffee pie recipe](https://www.bbcgoodfood.com/recipes/banoffee-pie).*
